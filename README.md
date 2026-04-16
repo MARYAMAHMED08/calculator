@@ -1,2 +1,4 @@
 # calculator
-A calculator using python.
+A calculator using if-else statement in pythyon.
+
+
